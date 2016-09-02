@@ -1,3 +1,5 @@
+# Lab 1
+
 ## Reading responses 
 
 ### Open Source Definition
@@ -35,5 +37,9 @@ In my opinion, the problem lied in America's law system more than anything else.
 ![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-4.png?raw=true)
 ![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-5.png?raw=true)
 
+## Blockly Games : Maze 
+This thing is really difficult. I haven't solved it yet!
 
+## Reflection on Lab 1
+This lab helps me get familiar with unix commands, version control, regex, and problem solving. All of those are essential skills for all programmers, so with just this lab alone, I can feel myself improved drastically as a CS student.
 
