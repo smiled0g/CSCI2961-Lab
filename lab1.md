@@ -15,7 +15,25 @@ In my opinion, the problem lied in America's law system more than anything else.
 ![Tree](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-linux-tree.png?raw=true)
 
 ## Regex
-
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-1.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-1-5.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-3.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-4.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-5.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-6.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-7.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-8.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-9.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-10.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-11.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-12.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-13.png?raw=true)
+![RegexOne](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-14.png?raw=true)
+![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-1.png?raw=true)
+![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-2.png?raw=true)
+![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-3.png?raw=true)
+![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-4.png?raw=true)
+![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-5.png?raw=true)
 
 
 
