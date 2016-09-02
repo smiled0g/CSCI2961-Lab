@@ -1,6 +1,7 @@
 ## Reading resposnes 
 
 ### Open Source Definition
+It's quite eye-opening when I actually read the requirements of software to be qualify as 'open sourced'. Prior to the reading I actually just thought that any piece of software that publish its source code publicly is open sourced. In reality, the 10 criteria of OSD also makes sure that every will be able to use the source code freely while the authors of the code still have fair control of their work.
 
 ### Smart Questions
 
