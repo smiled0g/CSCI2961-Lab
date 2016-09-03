@@ -38,8 +38,10 @@ In my opinion, the problem lied in America's law system more than anything else.
 ![Crossword](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-regex-beg-5.png?raw=true)
 
 ## Blockly Games : Maze 
-This thing is really difficult. I haven't solved it yet!
+This thing is quite difficult. I took a long while to solve it!
+![Maze](https://github.com/smiled0g/CSCI2961-Lab/blob/master/images/lab-1-maze.png?raw=true)
+
 
 ## Reflection on Lab 1
-This lab helps me get familiar with unix commands, version control, regex, and problem solving. All of those are essential skills for all programmers, so with just this lab alone, I can feel myself improved drastically as a CS student.
+This lab helps me get familiar with unix commands, version control, regex, and problem solving. All of those are essential skills for all programmers, so with just this lab alone, I can feel myself improved drastically as a CS student. The meterial is enjoyable and challenging, so I think it's a good start for this course's lab.
 
