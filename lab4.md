@@ -22,3 +22,6 @@ Index: special/chapter.xml
 
 ### Bug Report
 [https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=212941](https://bugs.freebsd.org/bugzilla/show_bug.cgi?id=212941)
+
+### Reflection
+In this lab, I submitted a report on typo error in one of the FreeBSD's handbooks. Going through the huge documentation in this lab, I have learned that virtually all the common problems and how-tos in using FreeBSD are documented, which allow new and old users of the OS to get answer any time they get stuck by just searching through the documentation. If I have to work on any opensource project, having good documentation in place would definitely help getting me on board and start getting into doing work for that project.
