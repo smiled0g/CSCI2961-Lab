@@ -6,3 +6,4 @@ Lab works for CSCI-2961 course at RPI
 - [Lab 1](https://github.com/smiled0g/CSCI2961-Lab/blob/master/lab1.md)
 - [Lab 2](https://github.com/smiled0g/CSCI2961-Lab/blob/master/lab2.md)
 - [Lab 3](https://github.com/smiled0g/CSCI2961-Lab/blob/master/lab3.md)
+- [Lab 4](https://github.com/smiled0g/CSCI2961-Lab/blob/master/lab4.md)
